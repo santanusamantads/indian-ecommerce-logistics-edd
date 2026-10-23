@@ -2,11 +2,14 @@
 
 **M.Sc. Data Science & Artificial Intelligence Project**  
 *Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI)*  
-**Author:** Santanu Samanta  
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#interactive-web-app-streamlit)
+*Author:* Santanu Samanta  
 
 ---
+
+### 🚀 **Want to test the Interactive Web App?**
+Run the following command in your terminal to launch the real-time Streamlit dashboard locally:
+```bash
+python -m streamlit run app.py
 
 ## 🚀 Project Overview
 Accurate Expected Delivery Date (EDD) forecasting and Service Level Agreement (SLA) breach prediction are critical for modern e-commerce supply chains. This project simulates and analyzes **25,000 domain-calibrated shipment records** across **23 features** and **6 major Indian logistics carriers** (**Blue Dart, Delhivery, Ekart, XpressBees, Ecom Express, and Shadowfax**).
