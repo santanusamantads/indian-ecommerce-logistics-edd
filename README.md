@@ -4,6 +4,8 @@
 *Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI)*  
 **Author:** Santanu Samanta  
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](#interactive-web-app-streamlit)
+
 ---
 
 ## 🚀 Project Overview
@@ -44,4 +46,7 @@ To avoid **target leakage**, downstream indicators (`Expected_Delivery_Timestamp
 ## 📂 Repository Structure
 * `india_multi_agency_edd_dataset.csv` – Raw simulated dataset (25,000 rows, 23 columns).
 * `indian_logistics_edd_eda_ml.ipynb` – Jupyter Notebook containing Exploratory Data Analysis (EDA), covariance/correlation matrices, OLS/Ridge/LASSO/Random Forest regression, and Logistic Regression SLA classification.
+* `app.py` – Interactive Streamlit web application for real-time shipment predictions.
 * `requirements.txt` – Python library dependencies.
+
+---
